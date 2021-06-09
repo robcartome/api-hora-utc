@@ -31,7 +31,7 @@ Respuesta:
 
 ## Instalación
 Pasos Para Correr en Local ( en la terminal ).
-- Clonar el repositorio: git clone ......    
+- Clonar el repositorio: git clone https://github.com/robcartome/api-hora-utc.git 
 - Instalar las tecnologias para usar el Framework Spring.       
 - Ejecutar para correr la api en el servidor, eventualmente corre en el puerto (http://localhost:8080):                                                          
 -> .\mvnw.cmd spring-boot:run   
